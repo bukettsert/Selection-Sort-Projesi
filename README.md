@@ -33,3 +33,11 @@ ___
 2. [2,3,4,5,8,7,9,15,6]
 3. [2,3,4,5,6,8,7,9,15]
 4. [2,3,4,5,6,7,8,9,15]
+
+
+___
+
+
+[kodluyoruz.org](https://kodluyoruz.org/tr/kodluyoruz/)
+
+[patika.dev](https://www.patika.dev/tr)
