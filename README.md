@@ -10,7 +10,8 @@ Veri Yapıları ve Algoritmalar
 2. [2,27,16,22,18,6]
 3. [2,6,16,22,18,27]
 4. [2,6,16,18,22,27]
-__
+5. 
+___
 
 * _Big-O gösterimini yazınız._
 
