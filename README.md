@@ -4,13 +4,14 @@ Veri Yapıları ve Algoritmalar
 
 [22,27,16,2,18,6] -> Insertion Sort
 
+___
+
 * _Yukarı verilen dizinin sort türüne göre aşamalarını yazınız._
 
 1. [22,27,16,2,18,6]  
 2. [2,27,16,22,18,6]
 3. [2,6,16,22,18,27]
-4. [2,6,16,18,22,27]
-5. 
+4. [2,6,16,18,22,27] 
 ___
 
 * _Big-O gösterimini yazınız._
